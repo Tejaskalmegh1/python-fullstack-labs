@@ -1,7 +1,7 @@
 # Python Full Stack Labs
 
 <div align="center">
-
+   
 ### Production-Oriented Full Stack Development with Python
 
 A structured repository focused on mastering modern full stack development using Python through backend engineering, frontend development, databases, APIs, authentication systems, cloud deployment, DevOps practices, and real-world applications.
