@@ -19,7 +19,7 @@ A structured repository focused on mastering modern full stack development using
 </div>
       
 ---
-
+     
 ## Overview
 
 This repository documents my journey toward becoming a professional Full Stack Python Developer by building scalable applications and learning modern software development practices.
