@@ -5,7 +5,7 @@
 ### Production-Oriented Full Stack Development with Python
 
 A structured repository focused on mastering modern full stack development using Python through backend engineering, frontend development, databases, APIs, authentication systems, cloud deployment, DevOps practices, and real-world applications.
-   
+     
 <br>
 
 <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python" />
