@@ -15,7 +15,7 @@ A structured repository focused on mastering modern full stack development using
 <img src="https://img.shields.io/badge/PostgreSQL-Database-informational?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-
+      
 </div>
         
 ---
